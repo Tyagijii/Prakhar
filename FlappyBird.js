@@ -3,7 +3,7 @@
 
 //kaboom({global:true, background:black})
 loadSprite('bean', 'bird.png')
-loadSprite('pipe','/Screenshot_2023-06-14-18-48-08-583.jpeg')
+loadSprite('pipe','Screenshot_2023-06-14-18-48-08-583.jpeg')
 
 setGravity(600)
 
